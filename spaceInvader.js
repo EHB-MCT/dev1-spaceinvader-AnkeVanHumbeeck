@@ -15,7 +15,7 @@ function drawspaceInvader() {
     context.rect(50, 50, 300, 300);
     context.fill();
 
-    context.fillStyle = "#66FF00";
+    context.fillStyle = "#00FF00";
     context.beginPath();
     context.rect(75, 75, 50, 50);
     context.rect(125, 125, 150, 50);
